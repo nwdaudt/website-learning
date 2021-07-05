@@ -1,5 +1,7 @@
 # Welcome
 
+[page2](page2.html)
+
 ### About
 
 I'm a Brazilian **Marine Ecologist** working with marine top predators, particularly *seabirds*.
